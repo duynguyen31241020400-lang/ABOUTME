@@ -14,7 +14,8 @@ Not because it's efficient, it isn't, but because understanding a system at its 
 
 Currently: undergraduate at **UEH-ISB Honours College**, Vietnam.  
 AI adoption strategist at **Marwuy Crew**
-Head of Marketing & Communication at **START INNOVA** — a student startup club where I think about how ideas move through communities.
+
+Head of Marketing & Communication at **START INNOVA**
 
 ---
 
