@@ -21,7 +21,6 @@ what i'm working on
 Lumiq AI — not an AI tutor. an AI that watches how you think when you code. tracks keystrokes, pauses, click patterns to find where thinking breaks down — not just where syntax breaks. built on Next.js · TypeScript · Supabase · Deepseek API.
 AUG Lab —  independent. everything feeds the same obsession.
 
-
 stack
 Languages    →  Python, JavaScript / TypeScript, HTML/CSS
 Runtime      →  Next.js 15, Node.js, Express
@@ -30,15 +29,15 @@ AI / APIs    →  Deepseek API, Gemini API, Anthropic Claude API
 Tools        →  Claude Code, Cursor, VS Code, GitHub
 OS           →  Linux (agent infra), Windows (daily driver)
 
-outside the terminal
-
+Outside the terminal
 reading mechanistic interpretability research for fun. long-term goal: contribute to the TransformerLens ecosystem
 admire Yann LeCun for holding contrarian positions under pressure
 favorite book: One Litre of Tears by Aya Kito — not because it's inspiring, but because it's raw and honest
 listening to Bùi Trường Linh and Bray
+
 ---
 
-reach out
+Reach out
 if you're working on AI research, coding education, or just want to talk about AGI at 2am 
 
 ---
